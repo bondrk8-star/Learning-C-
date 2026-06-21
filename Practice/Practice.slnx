@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="CalculatorApp/CalculatorApp.csproj" />
+  <Project Path="CalculatorTrue/CalculatorTrue.csproj" Id="649ea01f-73af-4ffa-a83a-760410785d59" />
+  <Project Path="CircleForPractice/CircleForPractice.csproj" Id="0e5ea30e-1f5a-4d0b-971b-845c4c15f499" />
+  <Project Path="CountEvenAndOdd/CountEvenAndOdd.csproj" Id="07239841-3ded-454b-8911-c42947778ebf" />
+  <Project Path="EvenOrOdd/EvenOrOdd.csproj" Id="9ce72e7e-5b56-4c10-aa89-1ce43d56b0e5" />
+  <Project Path="GuessTheWord/GuessTheWord.csproj" Id="f3f07182-8bb8-455f-8439-79780eac312f" />
+  <Project Path="Massive/Massive.csproj" Id="70f04bca-5a10-4716-8564-11555ee2882b" />
+  <Project Path="Methods/Methods.csproj" Id="6583eb02-6813-45f3-8b8f-3d708707503f" />
+  <Project Path="References/References.csproj" Id="189befa5-a63e-4759-9e71-138729342c6e" />
+  <Project Path="TernaryOperator/TernaryOperator.csproj" Id="8f02ec3b-f937-433a-9338-a873450dd744" />
+  <Project Path="Triangles/Triangles.csproj" Id="3c983386-0d6a-4827-909d-74c9ad6a88bc" />
+  <Project Path="TrianglesNew/TrianglesNew.csproj" Id="c8375297-5364-4eda-a653-18b4f950b4a8" />
+</Solution>
